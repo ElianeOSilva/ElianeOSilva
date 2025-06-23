@@ -4,7 +4,7 @@
 
 Me chamo **Eliane Maria**, tenho 23 anos e sou natural de **Rio Claro - SP**. Atualmente estou cursando **Sistemas de Informação** na **FHO (Fundação Hermínio Ometto)**.
 
-Tenho interesse nas áreas de **Desenvolvimento Web e Análise de Dados**. Estou sempre em busca de novos aprendizados e desafios que contribuam para meu crescimento pessoal e profissional.
+Estou sempre em busca de novos aprendizados e desafios que contribuam para meu crescimento pessoal e profissional.
 
 ---
 
